@@ -1,35 +1,34 @@
 <template>
   <div class="card-started" id="home-card">
     <div class="profile no-photo">
-      <!-- profile image -->
       <div
         class="slide"
-        style="background-image: url(images/man5_big.jpg)"
+        :style="{
+          backgroundImage: 'url(' + require('@/assets/images/bogdan.jpg') + ')',
+        }"
       ></div>
 
-      <!-- profile titles -->
       <div class="title">Bogdan Yukhymchuk</div>
-      <!--<div class="subtitle">Web Designer</div>-->
-      <div class="subtitle subtitle-typed">Developer</div>
+      <div class="subtitle subtitle-typed">Fullstack Developer</div>
       <span class="typed-cursor">|</span>
 
       <!-- profile socials -->
       <div class="social">
-        <a target="_blank" href="https://dribbble.com/"
-          ><span class="fa fa-dribbble"></span
-        ></a>
-        <a target="_blank" href="https://twitter.com/"
-          ><span class="fa fa-twitter"></span
-        ></a>
-        <a target="_blank" href="https://github.com/"
-          ><span class="fa fa-github"></span
-        ></a>
-        <a target="_blank" href="https://www.spotify.com/"
-          ><span class="fa fa-spotify"></span
-        ></a>
-        <a target="_blank" href="https://stackoverflow.com/"
-          ><span class="fa fa-stack-overflow"></span
-        ></a>
+        <a target="_blank" href="https://dribbble.com/">
+          <span class="fa fa-dribbble"></span>
+        </a>
+        <a target="_blank" href="https://twitter.com/">
+          <span class="fa fa-twitter"></span>
+        </a>
+        <a target="_blank" href="https://github.com/">
+          <span class="fa fa-github"></span>
+        </a>
+        <a target="_blank" href="https://www.spotify.com/">
+          <span class="fa fa-spotify"></span>
+        </a>
+        <a target="_blank" href="https://stackoverflow.com/">
+          <span class="fa fa-stack-overflow"></span>
+        </a>
       </div>
 
       <!-- profile buttons -->
