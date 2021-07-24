@@ -137,20 +137,34 @@
               </div>
               <ul>
                 <li class="border-line-h">
-                  <div class="name">English</div>
+                  <div class="name">Russian</div>
                   <div class="progress">
                     <div class="percentage" style="width: 90%">
-                      <span class="da" style="width: 233.484px"
-                        ><span></span><span></span><span></span><span></span
-                        ><span></span><span></span><span></span><span></span
-                        ><span></span><span></span
-                      ></span>
+                      <span class="da" style="width: 233.484px">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                      </span>
                     </div>
-                    <span class="dg"
-                      ><span></span><span></span><span></span><span></span
-                      ><span></span><span></span><span></span><span></span
-                      ><span></span><span></span
-                    ></span>
+                    <span class="dg">
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                    </span>
                   </div>
                 </li>
                 <li class="border-line-h">
@@ -158,16 +172,30 @@
                   <div class="progress">
                     <div class="percentage" style="width: 60%">
                       <span class="da" style="width: 233.484px"
-                        ><span></span><span></span><span></span><span></span
-                        ><span></span><span></span><span></span><span></span
-                        ><span></span><span></span
-                      ></span>
+                        ><span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                      </span>
                     </div>
                     <span class="dg"
-                      ><span></span><span></span><span></span><span></span
-                      ><span></span><span></span><span></span><span></span
-                      ><span></span><span></span
-                    ></span>
+                      ><span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                    </span>
                   </div>
                 </li>
                 <li class="border-line-h">
@@ -175,15 +203,29 @@
                   <div class="progress">
                     <div class="percentage" style="width: 30%">
                       <span class="da" style="width: 233.484px"
-                        ><span></span><span></span><span></span><span></span
-                        ><span></span><span></span><span></span><span></span
-                        ><span></span><span></span
+                        ><span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span
                       ></span>
                     </div>
                     <span class="dg"
-                      ><span></span><span></span><span></span><span></span
-                      ><span></span><span></span><span></span><span></span
-                      ><span></span><span></span
+                      ><span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span
                     ></span>
                   </div>
                 </li>
@@ -192,15 +234,29 @@
                   <div class="progress">
                     <div class="percentage" style="width: 70%">
                       <span class="da" style="width: 233.484px"
-                        ><span></span><span></span><span></span><span></span
-                        ><span></span><span></span><span></span><span></span
-                        ><span></span><span></span
+                        ><span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span
                       ></span>
                     </div>
                     <span class="dg"
-                      ><span></span><span></span><span></span><span></span
-                      ><span></span><span></span><span></span><span></span
-                      ><span></span><span></span
+                      ><span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span
                     ></span>
                   </div>
                 </li>

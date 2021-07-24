@@ -10,9 +10,8 @@
             <div class="text-box">
               <p>
                 I am Bogdan Yukhymchuk, full-stack developer from Poland,
-                Warszawa. I have rich experience in building frontend and
-                backend of the web site. I love to talk with you about our
-                unique.
+                Warszawa. I have rich experience in building the web site in
+                both of front-end and back-end sides.
               </p>
             </div>
           </div>
@@ -43,7 +42,7 @@
           <div class="col col-d-6 col-t-6 col-m-12 border-line-h">
             <div class="service-item">
               <div class="icon">
-                <span class="fa fa-code"></span>
+                <span class="fa fa-html5"></span>
               </div>
               <div class="name">
                 <span> Front-end Development </span>
@@ -51,8 +50,8 @@
               <div class="desc">
                 <div>
                   <p>
-                    Modern and mobile-ready website that will help you reach all
-                    of your marketing.
+                    Beautiful, easy-handling and comfortable frontend that will
+                    help you reach all of your marketing.
                   </p>
                 </div>
               </div>
@@ -62,16 +61,16 @@
           <div class="col col-d-6 col-t-6 col-m-12 border-line-h">
             <div class="service-item">
               <div class="icon">
-                <span class="fa fa-music"></span>
+                <span class="fa fa-code"></span>
               </div>
               <div class="name">
-                <span> Music Writing </span>
+                <span> Back-end Development </span>
               </div>
               <div class="desc">
                 <div>
                   <p>
-                    Music copying, writing, creating, transcription, arranging
-                    and composition services.
+                    High performance, creative, daptable code using design
+                    patterns and best practices.
                   </p>
                 </div>
               </div>
@@ -81,16 +80,17 @@
           <div class="col col-d-6 col-t-6 col-m-12 border-line-h">
             <div class="service-item">
               <div class="icon">
-                <span class="fa fa-buysellads"></span>
+                <span class="fa fa-cogs"></span>
               </div>
               <div class="name">
-                <span> Advetising </span>
+                <span> DevOps </span>
               </div>
               <div class="desc">
                 <div>
                   <p>
-                    Advertising services include television, radio, print, mail,
-                    and web apps.
+                    DevOps services include CI/CD, Workflow, Scrum, Testing, and
+                    <br />
+                    Auto deploying.
                   </p>
                 </div>
               </div>
@@ -100,16 +100,16 @@
           <div class="col col-d-6 col-t-6 col-m-12 border-line-h">
             <div class="service-item">
               <div class="icon">
-                <span class="fa fa-gamepad"></span>
+                <span class="fa fa-bug"></span>
               </div>
               <div class="name">
-                <span> Game Development </span>
+                <span> Troubleshooting </span>
               </div>
               <div class="desc">
                 <div>
                   <p>
-                    Developing memorable and unique mobile android, ios and
-                    video games.
+                    Critical, Complexed, and logical bug fixing in Website
+                    building. <br />Any bugs fixed.
                   </p>
                 </div>
               </div>
@@ -125,7 +125,7 @@
       <div class="content pricing">
         <!-- title -->
         <div class="title">
-          <div class="first-letter">Pricing</div>
+          <span class="first-word">Hourly</span> <span>Ratio</span>
         </div>
 
         <!-- content -->
@@ -134,19 +134,17 @@
           <div class="col col-d-6 col-t-6 col-m-12 border-line-v">
             <div class="pricing-item">
               <div class="icon"><i class="fa fa-battery-half"></i></div>
-              <div class="name">Basic</div>
+              <div class="name">Front-End</div>
               <div class="amount">
                 <span class="dollar">$</span>
-                <span class="number">22</span>
+                <span class="number">30</span>
                 <span class="period">hour</span>
               </div>
               <div class="feature-list">
                 <ul>
-                  <li>Web Development</li>
-                  <li>Advetising</li>
-                  <li>Game Development</li>
+                  <li>React Development</li>
+                  <li>Troubleshooting</li>
                   <li class="disable">Music Writing</li>
-                  <li class="disable">Photography <strong>new</strong></li>
                 </ul>
               </div>
               <div class="lnks">
@@ -161,15 +159,15 @@
           <div class="col col-d-6 col-t-6 col-m-12 border-line-v">
             <div class="pricing-item">
               <div class="icon"><i class="fa fa-battery-full"></i></div>
-              <div class="name">Pro</div>
+              <div class="name">Backend Developer</div>
               <div class="amount">
                 <span class="dollar">$</span>
-                <span class="number">48</span>
+                <span class="number">35</span>
                 <span class="period">hour</span>
               </div>
               <div class="feature-list">
                 <ul>
-                  <li>Web Development</li>
+                  <li>Soft Development</li>
                   <li>Advetising</li>
                   <li>Game Development</li>
                   <li>Music Writing</li>
