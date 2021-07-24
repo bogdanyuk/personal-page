@@ -1,9 +1,6 @@
 <template>
   <div class="card-inner" id="resume-card">
     <div class="card-wrap" style="">
-      <!--
-						Resume
-					-->
       <div class="content resume">
         <!-- title -->
         <div class="title">
@@ -510,7 +507,7 @@ export default {
   name: "Resume",
   components: {},
   mounted() {
-    console.log("REsume")
-  }
+    console.log("REsume");
+  },
 };
 </script>

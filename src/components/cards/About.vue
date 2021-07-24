@@ -9,10 +9,9 @@
           <div class="col col-d-6 col-t-6 col-m-12 border-line-v">
             <div class="text-box">
               <p>
-                I am Bogdan Yukhymchuk, web designer from USA, California. I
-                have rich experience in web site design and building and
-                customization, also I am good at wordpress. I love to talk with
-                you about our unique.
+                I am Bogdan Yukhymchuk, full-stack developer from Ukraine, Lviv.
+                I have rich experience in building frontend and backend of the
+                web site. I love to talk with you about our unique.
               </p>
             </div>
           </div>
@@ -20,9 +19,9 @@
             <div class="info-list">
               <ul>
                 <li><strong>Age . . . . .</strong> 24</li>
-                <li><strong>Residence . . . . .</strong> USA</li>
+                <li><strong>Residence . . . . .</strong> Ukraine</li>
                 <li><strong>Freelance . . . . .</strong> Available</li>
-                <li><strong>Address . . . . .</strong> California, USA</li>
+                <li><strong>Address . . . . .</strong> Lviv, Ukraine</li>
               </ul>
             </div>
           </div>
@@ -46,7 +45,7 @@
                 <span class="fa fa-code"></span>
               </div>
               <div class="name">
-                <span> Web Development </span>
+                <span> Front-end Development </span>
               </div>
               <div class="desc">
                 <div>

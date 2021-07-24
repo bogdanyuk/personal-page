@@ -20,7 +20,7 @@
         <a target="_blank" href="https://twitter.com/">
           <span class="fa fa-twitter"></span>
         </a>
-        <a target="_blank" href="https://github.com/">
+        <a target="_blank" href="https://github.com/r3act1st">
           <span class="fa fa-github"></span>
         </a>
         <a target="_blank" href="https://www.spotify.com/">

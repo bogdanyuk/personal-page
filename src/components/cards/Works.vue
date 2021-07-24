@@ -1,9 +1,6 @@
 <template>
   <div class="card-inner" id="works-card">
     <div class="card-wrap" style="">
-      <!--
-						Works
-					-->
       <div class="content works">
         <!-- title -->
         <div class="title"><span class="first-word">Recent</span> Works</div>

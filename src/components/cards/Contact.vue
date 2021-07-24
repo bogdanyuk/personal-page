@@ -42,7 +42,7 @@
             <div class="info-list">
               <ul>
                 <li><strong>Address . . . . .</strong> California, USA</li>
-                <li><strong>Email . . . . .</strong> Yukhymchuk@example.com</li>
+                <li><strong>Email . . . . .</strong>bogdanywork@gmail.com</li>
                 <li><strong>Phone . . . . .</strong> +123 654 78900</li>
                 <li><strong>Freelance . . . . .</strong> Available</li>
               </ul>
