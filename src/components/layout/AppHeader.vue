@@ -1,6 +1,5 @@
 <template>
   <header class="header">
-    <!-- header profile -->
     <div class="profile">
       <div class="title">Ryan Adlard</div>
       <div class="subtitle subtitle-typed">Developer</div>
@@ -13,13 +12,13 @@
     <!-- menu -->
     <div class="top-menu">
       <ul>
-        <li>
+        <li class="active">
           <a href="#about-card">
             <span class="icon ion-person"></span>
             <span class="link">About</span>
           </a>
         </li>
-        <li class="active">
+        <li>
           <a href="#resume-card">
             <span class="icon ion-android-list"></span>
             <span class="link">Resume</span>
@@ -38,7 +37,7 @@
           </a>
         </li>
         <li>
-          <a href="#contact-card">
+          <a href="#contacts-card">
             <span class="icon ion-at"></span>
             <span class="link">Contact</span>
           </a>
@@ -50,7 +49,7 @@
 <style scoped>
 </style>
 <script>
-import { defineComponent } from '@vue/composition-api'
+import { defineComponent } from "@vue/composition-api";
 export default defineComponent({
   setup() {},
 });

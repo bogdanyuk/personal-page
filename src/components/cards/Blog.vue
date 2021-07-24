@@ -1,5 +1,5 @@
 <template>
-  <div class="card-inner blog active" id="blog-card">
+  <div class="card-inner blog" id="blog-card">
     <div class="card-wrap" style="">
       <!-- Blog -->
       <div class="content blog">

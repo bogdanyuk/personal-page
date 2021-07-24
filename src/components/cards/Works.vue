@@ -1,5 +1,5 @@
 <template>
-  <div class="card-inner active" id="works-card">
+  <div class="card-inner" id="works-card">
     <div class="card-wrap" style="">
       <!--
 						Works
@@ -11,12 +11,8 @@
         <!-- filters -->
         <div class="filter-menu filter-button-group">
           <div class="f_btn active">
-            <label
-              ><input
-                type="radio"
-                name="fl_radio"
-                value="grid-item"
-              />All</label
+            <label>
+              <input type="radio" name="fl_radio" value="grid-item" />All</label
             >
           </div>
           <div class="f_btn">

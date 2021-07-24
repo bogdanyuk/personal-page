@@ -1,5 +1,5 @@
 <template>
-  <div class="card-inner active" id="resume-card">
+  <div class="card-inner" id="resume-card">
     <div class="card-wrap" style="">
       <!--
 						Resume
