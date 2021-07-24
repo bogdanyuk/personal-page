@@ -1,19 +1,15 @@
 <template>
   <div class="card-inner active" id="about-card">
-    <div class="card-wrap" style="">
-      <!-- 
-						About 
-					-->
+    <div class="card-wrap">
       <div class="content about">
         <!-- title -->
         <div class="title"><span class="first-word">About</span> Me</div>
-
         <!-- content -->
         <div class="row">
           <div class="col col-d-6 col-t-6 col-m-12 border-line-v">
             <div class="text-box">
               <p>
-                I am Ryan Adlard, web designer from USA, California. I have rich
+                I am Bogdan Yukhymchuk, web designer from USA, California. I have rich
                 experience in web site design and building and customization,
                 also I am good at wordpress. I love to talk with you about our
                 unique.
@@ -317,10 +313,10 @@
               </div>
               <div class="user">
                 <div class="img">
-                  <img src="images/profile.png" alt="Ryan Adlard" />
+                  <img src="images/profile.png" alt="Bogdan Yukhymchuk" />
                 </div>
                 <div class="info">
-                  <div class="name">Ryan Adlard</div>
+                  <div class="name">Bogdan Yukhymchuk</div>
                   <div class="company">Web Designer</div>
                 </div>
                 <div class="clear"></div>

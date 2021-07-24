@@ -8,7 +8,7 @@
       ></div>
 
       <!-- profile titles -->
-      <div class="title">Ryan Adlard</div>
+      <div class="title">Bogdan Yukhymchuk</div>
       <!--<div class="subtitle">Web Designer</div>-->
       <div class="subtitle subtitle-typed">Developer</div>
       <span class="typed-cursor">|</span>

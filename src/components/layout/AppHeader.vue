@@ -1,7 +1,7 @@
 <template>
   <header class="header">
     <div class="profile">
-      <div class="title">Ryan Adlard</div>
+      <div class="title">Bogdan Yukhymchuk</div>
       <div class="subtitle subtitle-typed">Developer</div>
       <span class="typed-cursor">|</span>
     </div>
