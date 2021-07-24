@@ -6,39 +6,6 @@
 
         <div class="row">
           <div class="col col-d-12 col-t-12 col-m-12 border-line-v">
-            <div
-              class="map"
-              id="map"
-              style="position: relative; overflow: hidden"
-            >
-              <div
-                style="
-                  height: 100%;
-                  width: 100%;
-                  position: absolute;
-                  top: 0px;
-                  left: 0px;
-                  background-color: rgb(229, 227, 223);
-                "
-              >
-                <div class="gm-err-container">
-                  <div class="gm-err-content">
-                    <div class="gm-err-icon">
-                      <img
-                        src="https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png"
-                        draggable="false"
-                        style="user-select: none"
-                      />
-                    </div>
-                    <div class="gm-err-title">Oops! Something went wrong.</div>
-                    <div class="gm-err-message">
-                      This page didn't load Google Maps correctly. See the
-                      JavaScript console for technical details.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
             <div class="info-list">
               <ul>
                 <li><strong>Address . . . . .</strong> California, USA</li>

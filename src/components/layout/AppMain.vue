@@ -26,7 +26,7 @@
         <a target="_blank" href="https://www.spotify.com/">
           <span class="fa fa-spotify"></span>
         </a>
-        <a target="_blank" href="https://stackoverflow.com/">
+        <a target="_blank" href="https://stackoverflow.com/users/15797612">
           <span class="fa fa-stack-overflow"></span>
         </a>
       </div>

@@ -97,7 +97,7 @@
                 <div class="icon">
                   <i class="fa fa-paint-brush"></i>
                 </div>
-                <div class="name">Design</div>
+                <div class="name">Web Developer</div>
               </div>
               <ul>
                 <li class="border-line-h">
