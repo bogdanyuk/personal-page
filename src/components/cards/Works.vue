@@ -13,37 +13,29 @@
             >
           </div>
           <div class="f_btn">
-            <label
-              ><input type="radio" name="fl_radio" value="photo" />Image</label
-            >
+            <label>
+              <input type="radio" name="fl_radio" value="photo" />Image
+            </label>
           </div>
           <div class="f_btn">
-            <label
-              ><input
-                type="radio"
-                name="fl_radio"
-                value="gallery"
-              />Gallery</label
-            >
+            <label>
+              <input type="radio" name="fl_radio" value="gallery" />Gallery
+            </label>
           </div>
           <div class="f_btn">
-            <label
-              ><input type="radio" name="fl_radio" value="video" />Video</label
-            >
+            <label>
+              <input type="radio" name="fl_radio" value="video" />Video
+            </label>
           </div>
           <div class="f_btn">
-            <label
-              ><input type="radio" name="fl_radio" value="music" />Music</label
-            >
+            <label>
+              <input type="radio" name="fl_radio" value="music" />Music
+            </label>
           </div>
           <div class="f_btn">
-            <label
-              ><input
-                type="radio"
-                name="fl_radio"
-                value="design"
-              />Content</label
-            >
+            <label>
+              <input type="radio" name="fl_radio" value="design" />Content
+            </label>
           </div>
         </div>
 
@@ -59,17 +51,23 @@
           >
             <div class="box-item">
               <div class="image">
-                <a href="images/works/work1.jpg" class="has-popup-image">
-                  <img src="images/works/work1.jpg" alt="" />
+                <a
+                  :href="require('@/assets/images/works/work1.jpg')"
+                  class="has-popup-image"
+                >
+                  <img src="@/assets/images/works/work1.jpg" alt="" />
                   <span class="info">
-                    <span class="ion ion-image"></span>
+                    <span class="ion ion-image" />
                   </span>
                 </a>
               </div>
               <div class="desc">
-                <a href="images/works/work1.jpg" class="name has-popup-image"
-                  >Motorcycle Helmet</a
+                <a
+                  :href="require('@/assets/images/works/work1.jpg')"
+                  class="name has-popup-image"
                 >
+                  Motorcycle Helmet
+                </a>
                 <div class="category">Image</div>
               </div>
             </div>
@@ -83,9 +81,9 @@
             <div class="box-item">
               <div class="image">
                 <a href="https://vimeo.com/97102654" class="has-popup-video">
-                  <img src="images/works/work2.jpg" alt="" />
+                  <img src="@/assets/images/works/work2.jpg" alt="" />
                   <span class="info">
-                    <span class="ion ion-videocamera"></span>
+                    <span class="ion ion-videocamera" />
                   </span>
                 </a>
               </div>
@@ -111,9 +109,9 @@
                   href="https://w.soundcloud.com/player/?visual=true&amp;url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F221650664&amp;show_artwork=true"
                   class="has-popup-music"
                 >
-                  <img src="images/works/work3.jpg" alt="" />
+                  <img src="@/assets/images/works/work3.jpg" alt="" />
                   <span class="info">
-                    <span class="ion ion-music-note"></span>
+                    <span class="ion ion-music-note" />
                   </span>
                 </a>
               </div>
@@ -132,9 +130,9 @@
             <div class="box-item">
               <div class="image">
                 <a href="#popup-1" class="has-popup-media">
-                  <img src="images/works/work4.jpg" alt="" />
+                  <img src="@/assets/images/works/work4.jpg" alt="" />
                   <span class="info">
-                    <span class="ion ion-images"></span>
+                    <span class="ion ion-images" />
                   </span>
                 </a>
               </div>
@@ -147,7 +145,7 @@
               <div id="popup-1" class="popup-box mfp-fade mfp-hide">
                 <div class="content">
                   <div class="image">
-                    <img src="images/works/work4.jpg" alt="" />
+                    <img src="@/assets/images/works/work4.jpg" alt="" />
                   </div>
                   <div class="desc">
                     <div class="post-box">
@@ -195,7 +193,7 @@
                       </div>
                       <a href="#" class="button">
                         <span class="text">View Project</span>
-                        <span class="arrow"></span>
+                        <span class="arrow" />
                       </a>
                     </div>
                   </div>
@@ -212,21 +210,24 @@
             <div class="box-item">
               <div class="image">
                 <a href="#gallery-1" class="has-popup-gallery">
-                  <img src="images/works/work5.jpg" alt="" />
+                  <img src="@/assets/images/works/work5.jpg" alt="" />
                   <span class="info">
-                    <span class="ion ion-images"></span>
+                    <span class="ion ion-images" />
                   </span>
                 </a>
                 <div id="gallery-1" class="mfp-hide">
-                  <a href="images/works/work6.jpg"></a>
-                  <a href="images/works/work1.jpg"></a>
-                  <a href="images/works/work5.jpg"></a>
+                  <a :href="require('@/assets/images/works/work6.jpg')"></a>
+                  <a :href="require('@/assets/images/works/work1.jpg')"></a>
+                  <a :href="require('@/assets/images/works/work5.jpg')"></a>
                 </div>
               </div>
               <div class="desc">
-                <a href="images/works/work5.jpg" class="name has-popup-image"
-                  >Gereal Travels</a
+                <a
+                  :href="require('@/assets/images/works/work5.jpg')"
+                  class="name has-popup-image"
                 >
+                  Gereal Travels
+                </a>
                 <div class="category">Gallery</div>
               </div>
             </div>
@@ -243,9 +244,9 @@
                   href="https://w.soundcloud.com/player/?visual=true&amp;url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F221650664&amp;show_artwork=true"
                   class="has-popup-music"
                 >
-                  <img src="images/works/work8.jpg" alt="" />
+                  <img src="@/assets/images/works/work8.jpg" alt="" />
                   <span class="info">
-                    <span class="ion ion-music-note"></span>
+                    <span class="ion ion-music-note" />
                   </span>
                 </a>
               </div>
@@ -264,9 +265,9 @@
             <div class="box-item">
               <div class="image">
                 <a href="https://vimeo.com/97102654" class="has-popup-video">
-                  <img src="images/works/work6.jpg" alt="" />
+                  <img src="@/assets/images/works/work6.jpg" alt="" />
                   <span class="info">
-                    <span class="ion ion-videocamera"></span>
+                    <span class="ion ion-videocamera" />
                   </span>
                 </a>
               </div>
@@ -289,9 +290,9 @@
             <div class="box-item">
               <div class="image">
                 <a href="#popup-2" class="has-popup-media">
-                  <img src="images/works/work7.jpg" alt="" />
+                  <img src="@/assets/images/works/work7.jpg" alt="" />
                   <span class="info">
-                    <span class="ion ion-images"></span>
+                    <span class="ion ion-images" />
                   </span>
                 </a>
               </div>
@@ -304,7 +305,7 @@
               <div id="popup-2" class="popup-box mfp-fade mfp-hide">
                 <div class="content">
                   <div class="image">
-                    <img src="images/works/work7.jpg" alt="" />
+                    <img src="@/assets/images/works/work7.jpg" alt="" />
                   </div>
                   <div class="desc">
                     <div class="post-box">
@@ -352,7 +353,7 @@
                       </div>
                       <a href="#" class="button">
                         <span class="text">View Project</span>
-                        <span class="arrow"></span>
+                        <span class="arrow" />
                       </a>
                     </div>
                   </div>

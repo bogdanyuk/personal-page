@@ -17,28 +17,31 @@
             </div>
             <div class="resume-items">
               <div class="resume-item border-line-h active">
-                <div class="date">2013 - Present</div>
-                <div class="name">Art Director</div>
-                <div class="company">Facebook Inc.</div>
-                <p>
-                  Collaborate with creative and development teams on the
-                  execution of ideas.
-                </p>
-              </div>
-              <div class="resume-item border-line-h">
-                <div class="date">2011 - 2012</div>
-                <div class="name">Front-end Developer</div>
-                <div class="company">Google Inc.</div>
+                <div class="date">June 2021 - Present</div>
+                <div class="name">React.js Engineer</div>
+                <div class="company">Comberry.com</div>
                 <p>
                   Monitored technical aspects of the front-end delivery for
                   several projects.
                 </p>
               </div>
+              <div class="resume-item border-line-h">
+                <div class="date">Jun 2019 - May 2021</div>
+                <div class="name">Backend Developer</div>
+                <div class="company">SKillsquare.com</div>
+                <p>
+                  Collaborate with creative and development teams on the
+                  execution of ideas.
+                </p>
+              </div>
               <div class="resume-item">
-                <div class="date">2009 - 2010</div>
-                <div class="name">Senior Developer</div>
-                <div class="company">Abc Inc.</div>
-                <p>Optimize website performance using latest technology.</p>
+                <div class="date">Jan 2018 - Jun 2019</div>
+                <div class="name">DevOps Developer</div>
+                <div class="company">Virtual Showroom Inc.</div>
+                <p>
+                  Building GraphQL, SQL query to Optimize website performance
+                  using latest technology.
+                </p>
               </div>
             </div>
           </div>
@@ -51,27 +54,29 @@
             </div>
             <div class="resume-items">
               <div class="resume-item border-line-h">
-                <div class="date">2006 - 2008</div>
-                <div class="name">Art University</div>
-                <div class="company">New York</div>
-                <p>
-                  Bachelor's Degree in Computer Science ABC Technical Institute,
-                  Jefferson, Missouri
-                </p>
+                <div class="date">2016 - 2020</div>
+                <div class="name">
+                  Polish-Japanese Academy of Information Technology
+                </div>
+                <div class="company">Warszawa</div>
+                <p>Bachelor's Degree in Robotechnics Engineering</p>
               </div>
               <div class="resume-item border-line-h">
-                <div class="date">2005 - 2006</div>
-                <div class="name">Programming Course</div>
-                <div class="company">Paris</div>
-                <p>Coursework - Git, WordPress, Javascript, iOS, Android.</p>
+                <div class="date">2016</div>
+                <div class="name">Programming Language Course</div>
+                <div class="company">Warszawa</div>
+                <p>
+                  DaftCode 2016 Web Programming Basement skills: Git, HTML, CSS,
+                  Javascript, Python.
+                </p>
               </div>
               <div class="resume-item">
-                <div class="date">2004 - 2005</div>
-                <div class="name">Web Design Course</div>
-                <div class="company">London</div>
+                <div class="date">2017</div>
+                <div class="name">Programming Course</div>
+                <div class="company">Warszawa</div>
                 <p>
-                  Converted Photoshop layouts to web pages using HTML, CSS, and
-                  JavaScript
+                  SoloLearn JavaScript Course: Web site building using React,
+                  Node.js, Express, MongoDB.
                 </p>
               </div>
             </div>
@@ -95,31 +100,31 @@
             <div class="skills-list">
               <div class="skill-title border-line-h">
                 <div class="icon">
-                  <i class="fa fa-paint-brush"></i>
+                  <i class="fa fa-globe"></i>
                 </div>
                 <div class="name">Web Developer</div>
               </div>
               <ul>
                 <li class="border-line-h">
-                  <div class="name">Web Design</div>
+                  <div class="name">Front-end</div>
                   <div class="progress">
                     <div class="percentage" style="width: 90%"></div>
                   </div>
                 </li>
                 <li class="border-line-h">
-                  <div class="name">Write Music</div>
+                  <div class="name">Backend</div>
                   <div class="progress">
-                    <div class="percentage" style="width: 65%"></div>
+                    <div class="percentage" style="width: 95%"></div>
                   </div>
                 </li>
                 <li class="border-line-h">
-                  <div class="name">Photoshop</div>
+                  <div class="name">Database Management</div>
                   <div class="progress">
-                    <div class="percentage" style="width: 75%"></div>
+                    <div class="percentage" style="width: 80%"></div>
                   </div>
                 </li>
                 <li>
-                  <div class="name">Graphic Design</div>
+                  <div class="name">Devops</div>
                   <div class="progress">
                     <div class="percentage" style="width: 85%"></div>
                   </div>
@@ -139,7 +144,7 @@
                 <li class="border-line-h">
                   <div class="name">Russian</div>
                   <div class="progress">
-                    <div class="percentage" style="width: 90%">
+                    <div class="percentage" style="width: 100%">
                       <span class="da" style="width: 233.484px">
                         <span></span>
                         <span></span>
@@ -168,11 +173,11 @@
                   </div>
                 </li>
                 <li class="border-line-h">
-                  <div class="name">German</div>
+                  <div class="name">Ukraine</div>
                   <div class="progress">
-                    <div class="percentage" style="width: 60%">
-                      <span class="da" style="width: 233.484px"
-                        ><span></span>
+                    <div class="percentage" style="width: 100%">
+                      <span class="da" style="width: 233.484px">
+                        <span></span>
                         <span></span>
                         <span></span>
                         <span></span>
@@ -184,8 +189,8 @@
                         <span></span>
                       </span>
                     </div>
-                    <span class="dg"
-                      ><span></span>
+                    <span class="dg">
+                      <span></span>
                       <span></span>
                       <span></span>
                       <span></span>
@@ -199,11 +204,10 @@
                   </div>
                 </li>
                 <li class="border-line-h">
-                  <div class="name">Italian</div>
+                  <div class="name">English</div>
                   <div class="progress">
-                    <div class="percentage" style="width: 30%">
-                      <span class="da" style="width: 233.484px"
-                        ><span></span>
+                    <div class="percentage" style="width: 66%">
+                      <span class="da" style="width: 233.484px">
                         <span></span>
                         <span></span>
                         <span></span>
@@ -212,11 +216,11 @@
                         <span></span>
                         <span></span>
                         <span></span>
-                        <span></span
-                      ></span>
+                        <span></span>
+                        <span></span>
+                      </span>
                     </div>
-                    <span class="dg"
-                      ><span></span>
+                    <span class="dg">
                       <span></span>
                       <span></span>
                       <span></span>
@@ -225,16 +229,16 @@
                       <span></span>
                       <span></span>
                       <span></span>
-                      <span></span
-                    ></span>
+                      <span></span>
+                      <span></span>
+                    </span>
                   </div>
                 </li>
                 <li>
-                  <div class="name">French</div>
+                  <div class="name">Polish</div>
                   <div class="progress">
                     <div class="percentage" style="width: 70%">
-                      <span class="da" style="width: 233.484px"
-                        ><span></span>
+                      <span class="da" style="width: 233.484px">
                         <span></span>
                         <span></span>
                         <span></span>
@@ -243,11 +247,11 @@
                         <span></span>
                         <span></span>
                         <span></span>
-                        <span></span
-                      ></span>
+                        <span></span>
+                        <span></span>
+                      </span>
                     </div>
-                    <span class="dg"
-                      ><span></span>
+                    <span class="dg">
                       <span></span>
                       <span></span>
                       <span></span>
@@ -256,8 +260,9 @@
                       <span></span>
                       <span></span>
                       <span></span>
-                      <span></span
-                    ></span>
+                      <span></span>
+                      <span></span>
+                    </span>
                   </div>
                 </li>
               </ul>
@@ -273,7 +278,7 @@
               </div>
               <ul>
                 <li>
-                  <div class="name">WordPress</div>
+                  <div class="name">React / JS / TS</div>
                   <div class="progress p90">
                     <span>90%</span>
                     <div class="slice">
@@ -283,9 +288,9 @@
                   </div>
                 </li>
                 <li>
-                  <div class="name">PHP / MYSQL</div>
+                  <div class="name">Express / MongoDB</div>
                   <div class="progress p75">
-                    <span>75%</span>
+                    <span>85%</span>
                     <div class="slice">
                       <div class="bar"></div>
                       <div class="fill"></div>
@@ -293,9 +298,9 @@
                   </div>
                 </li>
                 <li>
-                  <div class="name">Angular / JavaScript</div>
+                  <div class="name">Django / PostgreSQL</div>
                   <div class="progress p85">
-                    <span>85%</span>
+                    <span>80%</span>
                     <div class="slice">
                       <div class="bar"></div>
                       <div class="fill"></div>
@@ -325,28 +330,28 @@
               </div>
               <ul>
                 <li>
-                  <div class="name">Website hosting</div>
+                  <div class="name">Advanced JavaScript</div>
                 </li>
                 <li>
-                  <div class="name">iOS and android apps</div>
+                  <div class="name">Webpage building on Design</div>
                 </li>
                 <li>
-                  <div class="name">Create logo design</div>
+                  <div class="name">React and related Libraries</div>
                 </li>
                 <li>
-                  <div class="name">Design for print</div>
+                  <div class="name">Next.js, Nuxt.js for SSR</div>
                 </li>
                 <li>
-                  <div class="name">Modern and mobile-ready</div>
+                  <div class="name">Nested Rest API / GraphQL</div>
                 </li>
                 <li>
-                  <div class="name">Advertising services include</div>
+                  <div class="name">Docker / Linux</div>
                 </li>
                 <li>
-                  <div class="name">Graphics and animations</div>
+                  <div class="name">Alogrithm / Data structure</div>
                 </li>
                 <li>
-                  <div class="name">Search engine marketing</div>
+                  <div class="name">Website hosting / AWS / GCP</div>
                 </li>
               </ul>
             </div>

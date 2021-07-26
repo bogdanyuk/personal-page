@@ -7,7 +7,7 @@
     </div>
 
     <!-- menu btn -->
-    <a href="#" class="menu-btn"><span></span></a>
+    <!-- <a href="#" class="menu-btn"><span></span></a> -->
 
     <!-- menu -->
     <div class="top-menu">
@@ -30,12 +30,12 @@
             <span class="link">Works</span>
           </a>
         </li>
-        <li>
+        <!-- <li>
           <a href="#blog-card">
             <span class="icon ion-chatbox-working"></span>
             <span class="link">Blog</span>
           </a>
-        </li>
+        </li> -->
         <li>
           <a href="#contacts-card">
             <span class="icon ion-at"></span>

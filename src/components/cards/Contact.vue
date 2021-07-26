@@ -8,9 +8,9 @@
           <div class="col col-d-12 col-t-12 col-m-12 border-line-v">
             <div class="info-list">
               <ul>
-                <li><strong>Address . . . . .</strong> California, USA</li>
+                <li><strong>Address . . . . .</strong> Warszawa, Poland</li>
                 <li><strong>Email . . . . .</strong>bogdanywork@gmail.com</li>
-                <li><strong>Phone . . . . .</strong> +123 654 78900</li>
+                <li><strong>Phone . . . . .</strong> (+48) 791380215</li>
                 <li><strong>Freelance . . . . .</strong> Available</li>
               </ul>
             </div>

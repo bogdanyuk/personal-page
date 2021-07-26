@@ -17,9 +17,9 @@
         </section>
         <section class="widget widget_recent_entries">
           <h2 class="widget-title">
-            <span class="widget-title-span"
-              ><span class="first-word">Recent</span> Posts</span
-            >
+            <span class="widget-title-span">
+              <span class="first-word">Recent</span> Posts
+            </span>
           </h2>
           <ul>
             <li>

@@ -35,17 +35,17 @@
 </template>
  <script>
 // @ is an alias to /src
-import "@/assets/scss/app.css";
-import "@/assets/scss/basic.css";
-import "@/assets/scss/layout.css";
-import "@/assets/scss/blogs.css";
-import "@/assets/scss/magnific-popup.css";
-import "@/assets/scss/animate.css";
-import "@/assets/scss/ionicons.css";
-import "@/assets/scss/owl.carousel.css";
-import "@/assets/scss/gradient.css";
-import "@/assets/scss/new-skin/new-skin.css";
-import "@/assets/scss/demos/demo-1-colors.css";
+import "@/assets/css/animate.css";
+import "@/assets/css/ionicons.css";
+import "@/assets/css/owl.carousel.css";
+import "@/assets/css/magnific-popup.css";
+
+import "@/assets/scss/basic.scss";
+import "@/assets/scss/layout.scss";
+import "@/assets/scss/blogs.scss";
+import "@/assets/scss/gradient.scss";
+import "@/assets/scss/new-skin/new-skin.scss";
+import "@/assets/scss/demos/demo-1-colors.scss";
 
 import AppHeader from "@/components/layout/AppHeader.vue";
 import AppMainVue from "@/components/layout/AppMain.vue";
